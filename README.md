@@ -1,20 +1,20 @@
-<img align="center" alt="Coding" width="90%" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/92009587580167.5dbc4c0433be8.gif">
-<h1 align="center">Hey there👋, I'm Saman</h1>
+<img align="center" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/92009587580167.5dbc4c0433be8.gif">
+<h1 align="center">Hello, world🌍</h1>
 <h3 align="center">Your friendly global developer who also loves designing.</h3>
 
-- 🔭 I’m currently working on **my Telegram bot**
+- 🎞️ I’m currently working on **my Telegram-bot**
 
-- 🌱 I’m currently learning **Next.Js and React-Native**
+- ⚗️ I’m currently learning **Next.Js**
 
-- 🤝 I’m looking for help with **Next.Js**
+- 🔎 I’m looking for help with **Next.Js**
 
-- 💬 Ask me about **React and Javascript**
+- 💿 Ask me about **React and Javascript**
 
-- 📫 Here is my Gamil address: **spandiarsantal@gmail.com**
+- 📧 Here is my Gamil address: **spandiarsantal@gmail.com**
 
-- ⚡ Fun fact **Did you know that a single worker bee makes about one-eighth of a teaspoon of honey in its life?**
+- ☢️ Fun fact **Did you know that a single worker bee makes about one-eighth of a teaspoon of honey in it's life?**
 
-## 🌐 Everyone wants to connect to me, now you can too:
+## 🌐 Everyone wants to connect with me, now you can too:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/6kRzxr4P) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Spandiar_tha) 
 
 # 💻 Tech Stack:
@@ -22,6 +22,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=spandiar20&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=spandiar20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
