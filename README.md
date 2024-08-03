@@ -1,5 +1,5 @@
 <img align="center" alt="Coding" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/92009587580167.5dbc4c0433be8.gif">
-<h1 align="center">Hello, world🌍</h1>
+<h1 align="center">Hello, World🌍</h1>
 <h3 align="center">Your friendly global developer who also loves designing.</h3>
 
 - 🎞️ I’m currently working on **my Telegram-bot**
